@@ -1,0 +1,13 @@
+.header {
+	height: 100px;
+}
+
+.header__title {
+	color: #b45454;
+	letter-spacing: 6px;
+	font-size: 24px;
+}
+
+.header__subtitle {
+	font-size: 10px;
+}
